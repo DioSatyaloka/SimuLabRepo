@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes_Dio/StartScene.unity
+    guid: b5b111e1e2ceba74389eed706e938750
+  - enabled: 1
+    path: Assets/Scenes_Dio/MenuScene.unity
+    guid: 8053b986b65f09c4ba72ff3822541f2d
+  - enabled: 1
+    path: Assets/Scenes_Dio/LabSceneElektrolit.unity
+    guid: 567ad6036f4046a4299bee0fd876aa40
+  - enabled: 1
+    path: Assets/Scenes_Dio/LabSceneTermokimia.unity
+    guid: 77cc144cad97b2541ab565ac05a2d8de
+  - enabled: 1
+    path: Assets/Scenes_Dio/LabSceneTitrasi.unity
+    guid: 250b6a959c44307478f9c6229c3c0b35
+  - enabled: 1
+    path: Assets/Scene_UI_Nopal/sceneMain.unity
+    guid: e2236a25c3f5f924da957419828011d0
+  - enabled: 1
+    path: Assets/Scene_UI_Nopal/scenePenjelasanSubAsamKuatBasaKuat.unity
+    guid: 9130bfb4f052989458c75317b11cb71d
+  - enabled: 1
+    path: Assets/Scene_UI_Nopal/scenePenjelasanSubAsamKuatBasaLemah.unity
+    guid: 96bf2f07b321f554a97e65ae4c68722f
+  - enabled: 1
+    path: Assets/Scene_UI_Nopal/scenePenjelasanSubAsamLemahBasaKuat.unity
+    guid: b57c14bc71cc0844691fa66186c6d29f
+  - enabled: 1
+    path: Assets/Scene_UI_Nopal/scenePenjelasanSubElektrolitKuat.unity
+    guid: 735daa6e98bcfe94dacb44d61db07c4d
+  - enabled: 1
+    path: Assets/Scene_UI_Nopal/scenePenjelasanSubElektrolitLemah.unity
+    guid: bc7cc03536ccb03449dd0e7588ae0dfb
+  - enabled: 1
+    path: Assets/Scene_UI_Nopal/scenePenjelasanSubKalorimetri.unity
+    guid: 9a050dfd754719a4badff4e520a9f4ed
+  - enabled: 1
+    path: Assets/Scene_UI_Nopal/scenePenjelasanSubNonElektrolit.unity
+    guid: 473033d779153ca44b5a9de3424d0026
+  - enabled: 1
+    path: Assets/Scene_UI_Nopal/scenePenjelasanSubRumusTitrasi.unity
+    guid: a0932d79ed564be4aa79ba14e73e3e1f
+  - enabled: 1
+    path: Assets/Scene_UI_Nopal/scenePerpustakaanList.unity
+    guid: 8ea156fcc2f7a4c4c9bd54eb7ddfc920
+  - enabled: 1
+    path: Assets/Scene_UI_Nopal/scenePerpustakaanPenjelasanElektrolit.unity
+    guid: 0aaa1a5f35f373740a920be6d90f5df9
+  - enabled: 1
+    path: Assets/Scene_UI_Nopal/scenePerpustakaanPenjelasanTermokimia.unity
+    guid: ec23059ceab1756459ba781731647d16
+  - enabled: 1
+    path: Assets/Scene_UI_Nopal/scenePerpustakaanPenjelasanTitrasi.unity
+    guid: 108d9fd50d8827e43906630c4353c414
+  m_configObjects: {}
